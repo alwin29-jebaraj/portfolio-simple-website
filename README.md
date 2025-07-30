@@ -1,1 +1,24 @@
-"This is my personal portfolio website built using pure HTML and CSS, designed to showcase my skills, creativity, and projects as a front-end web developer. It features a clean, responsive, and user-friendly layout that highlights my work in web design, UI development, and creative coding. This HTML & CSS portfolio demonstrates my ability to build modern, visually appealing websites without frameworks. Explore my projects, learn more about me, and see how I create stunning, functional, and responsive frontend designs. Perfect for anyone looking for a simple yet powerful example of a front-end developer portfolio."
+# Portfolio Simple Website
+
+This is a basic and responsive portfolio website developed using only HTML and CSS. It includes common sections such as:
+
+- 🧑‍💼 About Me
+- 💻 Projects
+- 🛠 Skills
+- 📞 Contact
+
+🚀 Features
+
+- Fully responsive layout
+- Clean and minimal design
+- Easy to customize
+
+📁 Technologies Used
+
+- HTML5
+- CSS3
+
+🌐 Live Preview
+
+[Click here to view live site] 
+
